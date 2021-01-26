@@ -1,0 +1,3 @@
+([('frontend',
+   '/Users/nitish.yadav/Documents/PyProjects/App4/BookStoreApp/dist/frontend',
+   'EXECUTABLE')],)

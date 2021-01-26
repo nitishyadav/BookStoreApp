@@ -48,7 +48,7 @@ def update(id,title,author,year,isbn):
 
 
 connect()
-#insert("The Table","Nit Ya",1989,9152233)
+#insert("Finance","Nit Ya",1992,912233)
 #print(search(author="John Smith"))
 #delete(3)
 #update(4,"The Moon","John Smith",1928,9131233,)
